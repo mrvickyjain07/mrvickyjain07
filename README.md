@@ -1,3 +1,4 @@
+![Header](./Purple%20and%20Black%20Futuristic%20AI%20Technology%20Banner%20(1).jpg)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/vyanktesh-hanumante-90167a259) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vj937379@gmail.com) 
